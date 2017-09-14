@@ -1,0 +1,3 @@
+rootProject.name = 'ToastDemo'
+
+include ':app', ':react-native-toast-waynian'
